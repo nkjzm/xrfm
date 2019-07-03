@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/nkjzm.png
     name: nkjzm
     url: https://twitter.com/nkjzm
+  haiero:
+    image_url: /images/actors/haiero.png
+    name: haiero
+    url: https://twitter.com/omeme_1231
 author: nkjzm
 description: xRの最新情報や旬な情報を届けるポッドキャスト
 description_long: xRの最新情報や旬な情報を届けるポッドキャスト
