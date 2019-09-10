@@ -11,6 +11,14 @@ actors:
     image_url: /images/actors/haiero.jpg
     name: haiero
     url: https://twitter.com/omeme_1231
+  korinVR:
+    image_url: /images/actors/korinVR.jpg
+    name: korinVR
+    url: https://twitter.com/korinVR
+  yutoVR:
+    image_url: /images/actors/yutoVR.jpg
+    name: yutoVR
+    url: https://twitter.com/yutoVR
 author: nkjzm
 description: xRの最新情報や旬な情報を届けるポッドキャスト
 description_long: xRの最新情報や旬な情報を届けるポッドキャスト
