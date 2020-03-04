@@ -19,6 +19,10 @@ actors:
     image_url: /images/actors/yutoVR.jpg
     name: yutoVR
     url: https://twitter.com/yutoVR
+  michisato:
+    image_url: /images/actors/michisato.jpg
+    name: michisato
+    url: https://twitter.com/michisato
 author: nkjzm
 description: xRの最新情報や旬な情報を届けるポッドキャスト
 description_long: xRの最新情報や旬な情報を届けるポッドキャスト
